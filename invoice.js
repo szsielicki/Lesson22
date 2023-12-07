@@ -46,7 +46,7 @@ function createInvoice() {
         <tr >
             <td colspan="3">${name}<br>
                 ${street}<br>
-                {$city}, ${state} ${zip}<br>
+                ${city}, ${state} ${zip}<br>
                 ${phone}
             </td>
         </tr>
